@@ -19,4 +19,4 @@ The Algorithms that are used here are -
 3. K Nearest Neighbours
 4. Decision Tree Regressor
 5. Linear Regression
-6. 
+6. Moving Average
