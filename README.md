@@ -23,4 +23,4 @@ The Algorithms that are used here are -
 6. Moving Average
 
 
-We comapre the acurracy of prediction by each algorith and we find out "Moving Average " perform best among all algorithm and on both large and small dataset.
+We comapre the acurracy of prediction by each algorithm and we find out "Moving Average " perform best among all algorithm and on both large and small dataset.
